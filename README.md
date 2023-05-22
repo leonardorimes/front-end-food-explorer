@@ -9,14 +9,6 @@ This project was created as the final challenge of the Rockeseat Explorer course
 - [x] User registration
 - [x] product registration
 
-### How to use
-
-- To use this project you need to clone this repository and clone https://github.com/jpfagundes/backend-food-explorer 
-
- Then in both : 
-```bash
-  npm run dev
-```
 
 ### User adm
 - Login: admin@email.com
